@@ -41,7 +41,7 @@
 <td>Folder backups by date</td>
 <td>VSS and beginning CVS/SVN user</td>
 <td>Proficient in using CVS and SVN features. Knows how to branch and merge, use patches setup repository properties etc.</td>
-<td><b>Knowledge of distributed VCS systems. Has tried out Bzr/Mercurial/Darcs/Git</b></td>
+<td><b>Knowledge of distributed VCS systems. Has tried out</b> Bzr/Mercurial/Darcs/<b>Git</b></td>
 </tr>
 <tr>
 <td>5. build automation</td>
@@ -162,7 +162,7 @@
 <td>21. database</td>
 <td>Thinks that Excel is a database</td>
 <td>Knows basic database concepts, normalization, ACID, transactions and can write simple selects</td>
-<td><b>Able to design good and normalized database schemas keeping in mind the queries that’ll have to be run, proficient in use of views, stored procedures, triggers and user defined types. Knows difference between clustered and non-clustered indexes. Proficient in use of ORM tools.</b></td>
+<td><b>Able to design good and normalized database schemas keeping in mind the queries that’ll have to be run, proficient in use of views, stored procedures, triggers</b> and user defined types. <b>Knows difference between clustered and non-clustered indexes. Proficient in use of ORM tools.</b></td>
 <td>Can do basic database administration, performance optimization, index optimization, write advanced select queries, able to replace cursor usage with relational sql, understands how data is stored internally, understands how indexes are stored internally, understands how databases can be mirrored, replicated etc. Understands how the two phase commit works.</td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@
 <td>30. books</td>
 <td><b>Head first series</b>, Unleashed series, 21 days series, 24 hour series, dummies series…</td>
 <td>Code Complete, Don’t Make me Think, Mastering Regular Expressions</td>
-<td><b>Design Patterns</b>, Peopleware, Programming Pearls, Algorithm Design Manual, <b>Pragmatic Programmer</b>, Mythical Man month</td>
+<td><b>Design Patterns</b>, Peopleware, <b>Programming Pearls</b>, Algorithm Design Manual, <b>Pragmatic Programmer</b>, Mythical Man month</td>
 <td>Structure and Interpretation of Computer Programs, Concepts Techniques, Models of Computer Programming, Art of Computer Programming, Database systems , by C. J Date, Thinking Forth, Little Schemer</td>
 </tr>
 <tr>
