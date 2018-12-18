@@ -217,7 +217,7 @@
 <td>30. books</td>
 <td><b>Head first series</b>, Unleashed series, 21 days series, 24 hour series, dummies series…</td>
 <td>Code Complete, Don’t Make me Think, Mastering Regular Expressions</td>
-<td><b>Design Patterns</b>, Peopleware, <b>Programming Pearls</b>, Algorithm Design Manual, <b>Pragmatic Programmer</b>, Mythical Man month</td>
+<td><b>Design Patterns</b>, Peopleware, <b>Programming Pearls</b>, Algorithm Design Manual, <b>Pragmatic Programmer, Mythical Man month</b></td>
 <td>Structure and Interpretation of Computer Programs, Concepts Techniques, Models of Computer Programming, Art of Computer Programming, Database systems , by C. J Date, Thinking Forth, Little Schemer</td>
 </tr>
 <tr>
